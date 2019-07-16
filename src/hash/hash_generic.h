@@ -8,7 +8,7 @@
 #ifndef INCLUDE_hash_hash_generic_h__
 #define INCLUDE_hash_hash_generic_h__
 
-#include "common.h"
+#include "git2/common.h"
 
 #include "hash.h"
 

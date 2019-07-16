@@ -10,7 +10,7 @@
 #ifndef GIT_WINHTTP
 
 #include "git2.h"
-#include "http_parser.h"
+#include "http-parser/http_parser.h"
 #include "buffer.h"
 #include "netops.h"
 #include "global.h"

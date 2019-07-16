@@ -1,0 +1,4 @@
+- target: http-parser
+  type: static lib
+  sources:
+    - http_parser.c
