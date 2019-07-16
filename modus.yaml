@@ -2,6 +2,7 @@
   type: dynamic lib
   dependencies:
     - project.deps.http-parser
+    - project.deps.zlib
   sources:
     - src/attr_file.c
     - src/idxmap.c
